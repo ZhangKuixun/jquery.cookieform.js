@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no" >
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script src="./js/jquery_cookie.js"></script>
-<script src="./js/jquery.cookieform.js"></script>
+<script src="./jquery_cookie.js"></script>
+<script src="./jquery.cookieform.js"></script>
 <title></title>
 <script type="text/javascript">
 $(function(){
